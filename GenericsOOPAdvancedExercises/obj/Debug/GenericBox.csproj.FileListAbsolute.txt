@@ -1,0 +1,5 @@
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises\bin\Debug\GenericsOOPAdvancedExercises.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises\bin\Debug\GenericsOOPAdvancedExercises.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises\obj\Debug\GenericBox.csprojResolveAssemblyReference.cache
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises\obj\Debug\GenericsOOPAdvancedExercises.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises\obj\Debug\GenericsOOPAdvancedExercises.pdb

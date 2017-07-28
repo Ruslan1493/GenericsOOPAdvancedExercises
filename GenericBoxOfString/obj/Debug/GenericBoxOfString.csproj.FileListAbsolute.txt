@@ -1,0 +1,4 @@
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfString\bin\Debug\GenericBoxOfString.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfString\bin\Debug\GenericBoxOfString.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfString\obj\Debug\GenericBoxOfString.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfString\obj\Debug\GenericBoxOfString.pdb

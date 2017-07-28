@@ -1,0 +1,5 @@
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\4. GenericSwapMethodStrings\bin\Debug\_4.GenericSwapMethodStrings.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\4. GenericSwapMethodStrings\bin\Debug\_4.GenericSwapMethodStrings.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\4. GenericSwapMethodStrings\obj\Debug\_4.GenericSwapMethodStrings.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\4. GenericSwapMethodStrings\obj\Debug\_4.GenericSwapMethodStrings.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\4. GenericSwapMethodStrings\obj\Debug\4. GenericSwapMethodStrings.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\5. GenericCountMethodStrings\bin\Debug\_5.GenericCountMethodStrings.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\5. GenericCountMethodStrings\bin\Debug\_5.GenericCountMethodStrings.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\5. GenericCountMethodStrings\obj\Debug\_5.GenericCountMethodStrings.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\5. GenericCountMethodStrings\obj\Debug\_5.GenericCountMethodStrings.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\5. GenericCountMethodStrings\obj\Debug\5. GenericCountMethodStrings.csprojResolveAssemblyReference.cache

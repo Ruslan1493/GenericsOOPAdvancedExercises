@@ -1,0 +1,4 @@
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfIntegers\bin\Debug\GenericBoxOfIntegers.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfIntegers\bin\Debug\GenericBoxOfIntegers.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfIntegers\obj\Debug\GenericBoxOfIntegers.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\GenericsOOPAdvancedExercises\GenericBoxOfIntegers\obj\Debug\GenericBoxOfIntegers.pdb
