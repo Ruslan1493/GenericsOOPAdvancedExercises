@@ -1,0 +1,5 @@
+C:\Users\Ruslan\Documents\Visual Studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises.git\trunk\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Documents\Visual Studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises.git\trunk\CustomList\bin\Debug\CustomList.exe
+C:\Users\Ruslan\Documents\Visual Studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises.git\trunk\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises.git\trunk\CustomList\obj\Debug\CustomList.exe
+C:\Users\Ruslan\Documents\Visual Studio 2013\Projects\GenericsOOPAdvancedExercises\GenericsOOPAdvancedExercises.git\trunk\CustomList\obj\Debug\CustomList.pdb
